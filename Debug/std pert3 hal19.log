@@ -1,0 +1,20 @@
+﻿Build started 05/10/2018 15:58:19.
+     1>Project "E:\Taufi_5170411279\std pert3 hal19\std pert3 hal19.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\std pert3 hal19.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\taufi_5170411279\std pert3 hal19\main.cpp(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\taufi_5170411279\std pert3 hal19\main.cpp(21): error C2143: syntax error : missing ';' before ':'
+     1>e:\taufi_5170411279\std pert3 hal19\main.cpp(21): error C2143: syntax error : missing ';' before ':'
+     1>e:\taufi_5170411279\std pert3 hal19\main.cpp(37): error C2143: syntax error : missing ';' before '}'
+     1>e:\taufi_5170411279\std pert3 hal19\main.cpp(39): error C2059: syntax error : '}'
+     1>e:\taufi_5170411279\std pert3 hal19\main.cpp(39): error C2143: syntax error : missing ';' before '}'
+     1>e:\taufi_5170411279\std pert3 hal19\main.cpp(39): error C2059: syntax error : '}'
+     1>Done Building Project "E:\Taufi_5170411279\std pert3 hal19\std pert3 hal19.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.78
