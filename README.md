@@ -1,3 +1,3 @@
-program cpp untuk menjalankan struktur fungsi atau biasa di kenal dengan sturct
+program cpp untuk menjalankan suatu Array akan tetapi ditambahkan fungsi struktur atau biasa di kenal dengan sturct
 
 @author : taufik.amary@gmail.com
